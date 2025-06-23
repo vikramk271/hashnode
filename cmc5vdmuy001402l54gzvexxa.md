@@ -5,6 +5,7 @@ seoDescription: "Explore Ansible's growth from a simple automation tool to a rob
 datePublished: Sat Jun 21 2025 06:40:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmc5vdmuy001402l54gzvexxa
 slug: uncover-ansibles-journey-from-simple-automation-tool-to-enterprise-platform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750687839481/f0dbe189-b32c-44dc-b086-e9279ef118b3.png
 tags: ansible, ansible-playbook, ansible-module, ansible-role, ansible-adhoc
 
 ---

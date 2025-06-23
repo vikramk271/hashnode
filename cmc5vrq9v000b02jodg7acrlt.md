@@ -5,6 +5,7 @@ seoDescription: "Ansible uses an agentless, push-based architecture with YAML, f
 datePublished: Sat Jun 21 2025 06:51:30 GMT+0000 (Coordinated Universal Time)
 cuid: cmc5vrq9v000b02jodg7acrlt
 slug: understanding-ansible-architecture-simplicity-at-scale
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1750687410062/683d0b39-1815-4b0f-97f5-85208388da0e.png
 tags: ansible, ansible-playbook, ansible-module, ansible-role, ansible-adhoc
 
 ---

@@ -4,7 +4,7 @@ seoTitle: "Pandas Join Spongebob for an Underwater Adventure"
 seoDescription: "Join SpongeBob and friends in a hilarious tutorial on using Python Pandas for data manipulation and merging. Perfectly zany for beginners!"
 datePublished: Sat Nov 01 2025 12:37:41 GMT+0000 (Coordinated Universal Time)
 cuid: cmhg9p7bv000002jm5fowa1yx
-slug: pandas-adventure-with-spongebob-and-friends
+slug: pandas-adventure-with-spongebob-an
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1762000574006/062a5545-c2d9-4232-9c28-4366b643a9e4.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1762000601200/63f57554-4f42-427d-9b69-8f0344224592.png
 tags: artificial-intelligence, data-science, machine-learning, pandas

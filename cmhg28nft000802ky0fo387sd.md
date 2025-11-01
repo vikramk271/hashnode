@@ -4,7 +4,7 @@ seoTitle: "Pandas and Spongebob's Ocean Adventure"
 seoDescription: "Join SpongeBob and friends as they dive deep into data with Python Pandas, through a colorful, whimsical journey of coding fun!"
 datePublished: Sat Nov 01 2025 09:08:51 GMT+0000 (Coordinated Universal Time)
 cuid: cmhg28nft000802ky0fo387sd
-slug: pandas-adventure-with-spongebob-and-friends
+slug: pandas-adventure-with-spongebob-an
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1761987992241/0ef91ff5-14fa-42be-94b8-bb3650468327.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1761988082863/a8cc8dc3-d7e2-4bc7-960f-c2466fac3670.png
 tags: data-science, pandas
